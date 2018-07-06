@@ -26,18 +26,18 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 |22   |[Fibonacci Visitor](22_-_Fibonacci_Visitor.md)                       |18/19    |144/156   |
 |23   |[The Littlest Number](23_-_The_Littlest_Number.md)                   |12/13    |73/75     |
 |24   |[Mod Module](24_-_Mod_Module.md)                                     |11/12    |50/57     |
-|25   |~~[Cumulative Countdown]()~~                                         |NA/12    |NA/82     |
-|26   |~~[Small Divide]()~~                                                 |NA/15    |NA/76     |
-|28   |~~[Three Sort]()~~                                                   |NA/34    |NA/78     |
-|29   |~~[Storage Floor]()~~                                                |NA/5     |NA/25     |
-|30   |~~[String Storage Floor]()~~                                         |NA/7     |NA/203    |
-|31   |~~[String Reverse]()~~                                               |NA/11    |NA/122    |
-|32   |~~[Inventory Report]()~~                                             |NA/16    |NA/393    |
-|34   |~~[Vowel Incinerator]()~~                                            |NA/13    |NA/323    |
-|35   |~~[Duplicate Removal]()~~                                            |NA/17    |NA/167    |
-|36   |~~[Alphabetizer]()~~                                                 |NA/39    |NA/109    |
-|37   |~~[Scavenger Chain]()~~                                              |NA/8     |NA/63     |
-|38   |~~[Digit Exploder]()~~                                               |NA/30    |NA/165    |
-|39   |~~[Re-Coordinator]()~~                                               |NA/14    |NA/76     |
-|40   |~~[Prime Factory]()~~                                                |NA/28    |NA/399    |
-|41   |~~[Sorting Floor]()~~                                                |NA/34    |NA/714    |
+|25   |~~[Cumulative Countdown](25_-_Cumulative_Countdown.md)~~             |NA/12    |NA/82     |
+|26   |~~[Small Divide](26_-_Small_Divide.md)~~                             |NA/15    |NA/76     |
+|28   |~~[Three Sort](28_-_Three_Sort.md)~~                                 |NA/34    |NA/78     |
+|29   |~~[Storage Floor](29_-_Storage_Floor.md)~~                           |NA/5     |NA/25     |
+|30   |~~[String Storage Floor](30_-_String_Storage_Floor.md)~~             |NA/7     |NA/203    |
+|31   |~~[String Reverse](31_-_String_Reverse.md)~~                         |NA/11    |NA/122    |
+|32   |~~[Inventory Report](32_-_Inventory_Report.md)~~                     |NA/16    |NA/393    |
+|34   |~~[Vowel Incinerator](34_-_Vowel_Incinerator.md)~~                   |NA/13    |NA/323    |
+|35   |~~[Duplicate Removal](35_-_Duplicate_Removal.md)~~                   |NA/17    |NA/167    |
+|36   |~~[Alphabetizer](36_-_Alphabetizer.md)~~                             |NA/39    |NA/109    |
+|37   |~~[Scavenger Chain](37_-_Scavenger_Chain.md)~~                       |NA/8     |NA/63     |
+|38   |~~[Digit Exploder](38_-_Digit_Exploder.md)~~                         |NA/30    |NA/165    |
+|39   |~~[Re-Coordinator](39_-_Re-Coordinator.md)~~                         |NA/14    |NA/76     |
+|40   |~~[Prime Factory](40_-_Prime_Factory.md)~~                           |NA/28    |NA/399    |
+|41   |~~[Sorting Floor](41_-_Sorting_Floor.md)~~                           |NA/34    |NA/714    |
