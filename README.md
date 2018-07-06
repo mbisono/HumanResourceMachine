@@ -1,1 +1,20 @@
-# HumanResourceMachine
+# Human Resource Machine
+
+## Solutions
+- 01 - Mail Room [Size / Speed](01 - Mail Room.txt)
+- 02 - Busy Mail Room - [Size]() / [Speed]()
+- 03 - Copy Floor [Size / Speed]()
+- 04 - Scrambler Handler [Size / Speed]()
+- 06 - Rainy Summer [Size / Speed]()
+- 07 - Zero Exterminator [Size / Speed]()
+- 08 - Tripler Room [Size / Speed]()
+- 09 - Zero Preservation Initiative [Size / Speed]()
+- 10 - Octoplier Suite [Size / Speed]()
+- 11 - Sub Hallway [Size / Speed]()
+- 12 - Tetracontiplier [Size / Speed]()
+- 13 - Equalization Room [Size / Speed]()
+- 14 - Maximization Room [Size / Speed]()
+- 15 - Absolute Positivity [Size / Speed]()
+- 17 - Exclusive Lounge [Size / Speed]()
+- 19 - Countdown - [Size]() / [Speed]()
+- 20 - Multiplication Workshop- [Size]() / [Speed]()
