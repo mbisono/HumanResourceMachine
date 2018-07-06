@@ -4,7 +4,7 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 ## Solutions
 
 |Level|Name                                                                 |Size/Par |Speed/Par |
-|-----|---------------------------------------------------------------------|---------|----------|
+|----:|---------------------------------------------------------------------|--------:|---------:|
 |1    |[Mail Room](01_-_Mail_Room.md)                                       |6/6      |6/6       |
 |2    |[Busy Mail Room](02_-_Busy_Mail_Room.md)                             |3/3      |25/25     |
 |3    |[Copy Floor](03_-_Copy_Floor.md)                                     |6/6      |6/6       |
