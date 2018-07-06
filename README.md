@@ -26,8 +26,8 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 |22   |[Fibonacci Visitor](22_-_Fibonacci_Visitor.md)                       |18/19    |144/156   |
 |23   |[The Littlest Number](23_-_The_Littlest_Number.md)                   |12/13    |73/75     |
 |24   |[Mod Module](24_-_Mod_Module.md)                                     |11/12    |50/57     |
-|25   |~~[Cumulative Countdown](25_-_Cumulative_Countdown.md)~~             |NA/12    |NA/82     |
-|26   |~~[Small Divide](26_-_Small_Divide.md)~~                             |NA/15    |NA/76     |
+|25   |[Cumulative Countdown](25_-_Cumulative_Countdown.md)                 |11/12    |79/82     |
+|26   |[Small Divide](26_-_Small_Divide.md)                                 |15/15    |73/76     |
 |28   |~~[Three Sort](28_-_Three_Sort.md)~~                                 |NA/34    |NA/78     |
 |29   |~~[Storage Floor](29_-_Storage_Floor.md)~~                           |NA/5     |NA/25     |
 |30   |~~[String Storage Floor](30_-_String_Storage_Floor.md)~~             |NA/7     |NA/203    |
