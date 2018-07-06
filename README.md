@@ -19,4 +19,4 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 - 17 - Exclusive Lounge [Size / Speed](17%20-%20Exclusive%20Lounge.txt)
 - 19 - Countdown - [Size](19%20-%20Countdown%20-%20Size.txt) / [Speed](19%20-%20Countdown%20-%20Speed.txt)
 - 20 - Multiplication Workshop- [Size](20%20-%20Multiplication%20Workshop%20-%20Size.txt) / [Speed](20%20-%20Multiplication%20Workshop%20-%20Speed.txt)
-- 21 - Zero Terminated Sum - [Size](21%20-%20Zero%20Terminated%20Sum.txt) / [Speed]()
+- 21 - Zero Terminated Sum - [Size / Speed](21%20-%20Zero%20Terminated%20Sum.txt)
