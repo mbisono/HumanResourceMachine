@@ -24,7 +24,7 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 |20   |Multiplication Workshop     |[15](20_-_Multiplication_Workshop_-_Size.txt)/15      |[98](20_-_Multiplication_Workshop_-_Speed.txt)/109    |
 |21   |Zero Terminated Sum         |[10](21_-_Zero_Terminated_Sum.txt)/10      |[68](21_-_Zero_Terminated_Sum.txt)/72     |
 |22   |Fibonacci Visitor           |[18](22_-_Fibonacci_Visitor.txt)/19      |[144](22_-_Fibonacci_Visitor.txt)/156    |
-|23   |The Littlest Number         |[N/A]()/13      |[N/A]()/75     |
+|23   |The Littlest Number         |[12](23_-_The_Littlest_Number.txt)/13      |[73](23_-_The_Littlest_Number.txt)/75     |
 |24   |Mod Module                  |[N/A]()/12      |[N/A]()/57     |
 |25   |Cumulative Countdown        |[N/A]()/12      |[N/A]()/82     |
 |26   |Small Divide                |[N/A]()/15      |[N/A]()/76     |
