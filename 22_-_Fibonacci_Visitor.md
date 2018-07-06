@@ -1,5 +1,9 @@
 # 22 - Fibonacci Visitor
 
+## Targets
+Size: 19 / Speed: 156
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

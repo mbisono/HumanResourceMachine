@@ -1,5 +1,9 @@
 # 21 - Zero Terminated Sum
 
+## Targets
+Size: 10 / Speed: 72
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

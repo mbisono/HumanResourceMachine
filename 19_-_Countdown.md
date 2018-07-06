@@ -1,5 +1,8 @@
 # 19 - Countdown
 
+## Targets
+Size: 10 / Speed: 82
+
 ## Size
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --

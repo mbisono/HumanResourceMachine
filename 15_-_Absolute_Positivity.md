@@ -1,5 +1,9 @@
 # 16 - Absolute Positivity
 
+## Targets
+Size: 8 / Speed: 36
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

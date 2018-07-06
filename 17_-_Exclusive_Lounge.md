@@ -1,5 +1,9 @@
 # 17 - Exclusive Lounge
 
+## Targets
+Size: 12 / Speed: 28
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

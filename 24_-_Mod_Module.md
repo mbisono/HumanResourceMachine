@@ -1,5 +1,9 @@
 # 24 - Mod Module
 
+## Targets
+Size: 12 / Speed: 57
+
+## Size Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

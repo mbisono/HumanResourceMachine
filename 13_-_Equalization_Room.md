@@ -1,5 +1,9 @@
 # 13 - Equalization Room
 
+## Targets
+Size: 9 / Speed: 27
+
+## Speed / Size
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

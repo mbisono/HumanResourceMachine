@@ -1,5 +1,8 @@
 # 20 - Multiplication Workshop
 
+## Targets
+Size: 15 / Speed: 109
+
 ## Size
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --

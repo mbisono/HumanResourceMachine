@@ -1,5 +1,9 @@
 # 23 - The Littlest Number
 
+## Targets
+Size: 13 / Speed: 75
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

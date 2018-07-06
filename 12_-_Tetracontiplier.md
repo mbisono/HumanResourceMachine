@@ -1,5 +1,9 @@
 # 12 - Tetracontiplier
 
+## Targets
+Size: 14 / Speed: 56
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

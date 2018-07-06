@@ -1,4 +1,9 @@
 # 6 - Rainy Summer
+
+## Targets
+Size: 6 / Speed: 24
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

@@ -1,4 +1,9 @@
 # 10 - Octoplier Suite
+
+## Targets
+Size: 9 / Speed: 36
+
+## Size / Speed
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 

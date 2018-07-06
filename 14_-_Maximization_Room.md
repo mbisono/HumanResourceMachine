@@ -1,5 +1,9 @@
 # 14 - Maximization Room
 
+## Targets
+Size: 10 / Speed: 34
+
+## Speed / Size
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
