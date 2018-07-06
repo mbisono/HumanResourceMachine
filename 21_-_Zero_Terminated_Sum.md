@@ -1,4 +1,4 @@
-#21 - Zero Terminated Sum
+# 21 - Zero Terminated Sum
 
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --

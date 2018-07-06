@@ -1,4 +1,4 @@
-#23 - The Littlest Number
+# 23 - The Littlest Number
 
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --

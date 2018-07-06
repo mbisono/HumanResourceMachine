@@ -1,4 +1,4 @@
-#13 - Equalization Room
+# 13 - Equalization Room
 
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --

@@ -1,4 +1,4 @@
-#12 - Tetracontiplier
+# 12 - Tetracontiplier
 
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --

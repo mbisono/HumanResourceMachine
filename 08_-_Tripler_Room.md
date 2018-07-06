@@ -1,4 +1,4 @@
-#8 - Tripler Room
+# 8 - Tripler Room
 
 ```
 -- HUMAN RESOURCE MACHINE PROGRAM --
