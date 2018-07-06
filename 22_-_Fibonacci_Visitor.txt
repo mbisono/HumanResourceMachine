@@ -1,6 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
-    COMMENT  0
 a:
     INBOX   
     COPYTO   8
@@ -9,6 +8,8 @@ a:
     COPYTO   1
     BUMPUP   1
 b:
+c:
+    COPYFROM 1
     OUTBOX  
     COPYFROM 1
     ADD      0
@@ -17,21 +18,10 @@ b:
     COPYTO   0
     COPYFROM 1
     SUB      8
-    JUMPN    c
-    JUMPZ    d
+    JUMPN    b
+    JUMPZ    c
     JUMP     a
-c:
-d:
-    COPYFROM 1
-    JUMP     b
 
-
-DEFINE COMMENT 0
-eJyzZWBgmGCh5+VopOelo3fN/4Da2YSnKgl5LqreZYlql6pmmIasCjO7tS7MLHePjInooTzdiCN9ihFH
-/kpv2PdX+vl2oHaGUr+uuICA50Uf/a9NEfN7v0zMT3ajsX/TFmP/59trvbV2gdSIp75PvJUvmLy0/GwC
-S0VI6tLyhLzsUu+yFVmS0z+lPZ77K1lwxezkJVvFU3P3fEq7tP9sxqX9E4o37NtV7bMbpP9A4uRJwXWp
-HSB26NS6UOnJDK1s/V2Lu3oFV6T2h6zinhmy6sCc98tA8lWTjxaenHm0cPFs+1wQ/+I06+D2WYU+r5bw
-ePJseO3OMApGwSiAAwBGXmhT;
 
 DEFINE LABEL 0
 eJzzZGBg+Co3P2yaXMiqEPlb60Lkm7ZMk9uwDyjM0Ci1waRPMcJKXGuF61ndg+FndbviPmlPT5+s3ZQv
