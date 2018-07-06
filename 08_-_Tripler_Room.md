@@ -1,10 +1,16 @@
+#8 - Tripler Room
+
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
 a:
-b:
     INBOX   
-    JUMPZ    b
+    COPYTO   0
+    ADD      0
+    ADD      0
     OUTBOX  
     JUMP     a
 
 
+
+```

@@ -1,15 +1,22 @@
+#14 - Maximization Room
+
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
     JUMP     c
 a:
-    COPYTO   0
-    SUB      0
-    SUB      0
+    COPYFROM 0
 b:
     OUTBOX  
 c:
     INBOX   
+    COPYTO   0
+    INBOX   
+    SUB      0
     JUMPN    a
+    ADD      0
     JUMP     b
 
 
+
+```

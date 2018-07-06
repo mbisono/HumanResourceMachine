@@ -1,10 +1,15 @@
+# 6 - Rainy Summer
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
 a:
     INBOX   
-    OUTBOX  
+    COPYTO   0
     INBOX   
+    ADD      0
     OUTBOX  
     JUMP     a
 
 
+
+```

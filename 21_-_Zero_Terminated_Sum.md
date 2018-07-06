@@ -1,3 +1,6 @@
+#21 - Zero Terminated Sum
+
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
     JUMP     c
@@ -31,3 +34,5 @@ kfvCQxXuC0FqNqTfa84uvVQFYtskfw9YW3LNH8Tm69mZwdfDMn9S15Kt67uPbuvqvbUOJM7WfzCce+bB
 Tr3dPJ7Xtwd4R2/b4sezISFv7fpLVR0bqxoqts+f/WXH47kOZx7PjT1bN2vP2XvND0/b59YePBi+aP/3
 AIZRMAqGIQAAWfmEbQ;
 
+
+```

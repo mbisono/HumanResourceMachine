@@ -1,10 +1,15 @@
+# 3 - Copy Floor
+
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
-    INBOX   
+    COPYFROM 4
     OUTBOX  
-    INBOX   
+    COPYFROM 0
     OUTBOX  
-    INBOX   
+    COPYFROM 3
     OUTBOX  
 
 
+
+```

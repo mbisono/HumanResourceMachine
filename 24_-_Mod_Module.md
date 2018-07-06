@@ -1,3 +1,6 @@
+#24 - Mod Module
+
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
     JUMP     b
@@ -16,3 +19,5 @@ c:
     JUMP     c
 
 
+
+```

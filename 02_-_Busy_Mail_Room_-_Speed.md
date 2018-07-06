@@ -1,12 +1,15 @@
+# 2 - Busy Mail Room - Speed
+
+```
 -- HUMAN RESOURCE MACHINE PROGRAM --
 
 a:
     INBOX   
-    COPYTO   0
-    INBOX   
     OUTBOX  
-    COPYFROM 0
+    INBOX   
     OUTBOX  
     JUMP     a
 
 
+
+```
