@@ -29,7 +29,7 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 |25   |[Cumulative Countdown](25_-_Cumulative_Countdown.md)                 |11/12    |79/82     |
 |26   |[Small Divide](26_-_Small_Divide.md)                                 |15/15    |73/76     |
 |28   |[Three Sort](28_-_Three_Sort.md)                                     |34/34    |76/78     |
-|29   |~~[Storage Floor](29_-_Storage_Floor.md)~~                           |NA/5     |NA/25     |
+|29   |[Storage Floor](29_-_Storage_Floor.md)                               |5/5      |25/25     |
 |30   |~~[String Storage Floor](30_-_String_Storage_Floor.md)~~             |NA/7     |NA/203    |
 |31   |~~[String Reverse](31_-_String_Reverse.md)~~                         |NA/11    |NA/122    |
 |32   |~~[Inventory Report](32_-_Inventory_Report.md)~~                     |NA/16    |NA/393    |
