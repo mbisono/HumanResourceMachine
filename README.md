@@ -32,7 +32,7 @@ Optimized solutions for Tomorrow Corporation's game Human Resource Machine's lev
 |29   |[Storage Floor](29_-_Storage_Floor.md)                               |5/5      |25/25     |
 |30   |[String Storage Floor](30_-_String_Storage_Floor.md)                 |7/7      |203/203   |
 |31   |[String Reverse](31_-_String_Reverse.md)                             |11/11    |122/122   |
-|32   |~~[Inventory Report](32_-_Inventory_Report.md)~~                     |NA/16    |NA/393    |
+|32   |[Inventory Report](32_-_Inventory_Report.md)                         |16/16    |377/393   |
 |34   |~~[Vowel Incinerator](34_-_Vowel_Incinerator.md)~~                   |NA/13    |NA/323    |
 |35   |~~[Duplicate Removal](35_-_Duplicate_Removal.md)~~                   |NA/17    |NA/167    |
 |36   |~~[Alphabetizer](36_-_Alphabetizer.md)~~                             |NA/39    |NA/109    |
